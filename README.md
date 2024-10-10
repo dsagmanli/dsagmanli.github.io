@@ -43,6 +43,14 @@ Developed a web application for the UK traffic police to record traffic incident
 
 Built an Autonomous Flying Drone, with a web-based user interface, Object Detection using Deep Learning with 90% precision, SLAM and 3D Mapping. Exhibited at Consumer Electronics Show (CES) 2022 in Las Vegas.
 
+![Drone Flight](/assets/img/drone1.gif)
+
+![Drone](/assets/img/drone2.JPG)
+
 ### Smart Home Security System
 
 Created a smart home security system prototype using Arduino Uno with a flame sensor, Passive Infrared (PIR) sensor and a sound sensor to detect a fire and burglary, which sends notifications in these events over Wi-Fi.
+
+![Fire](/assets/img/security1.gif)
+
+![Circuit Setup](/assets/img/security2.JPG)
