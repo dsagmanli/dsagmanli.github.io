@@ -27,7 +27,10 @@ Conducted a comprehensive study where I compared the effectiveness of 3 AI model
 
 [Download The Detailed Project Report](assets/documents/dengue_report.pdf)
 
-### Sentiment Analysis of 2020 U.S. Presidential Election Tweets
+[View on GitHub](https://github.com/dsagmanli/Dengue-Fever-Case-Prediction)
+
+
+### Election Result Prediction Using Twitter Sentiment Analysis
 
 Conducted a comprehensive study where the 2020 US Presidential Election results were correctly predicted using the sentiments from 2 million tweets tweeted around the time of the election. The main assumption was that we would calculate positive tweets / all tweets per candidate. Between Donald Trump and Joe Biden, whoever had a higher ratio would have to have been the winner. This assumption turned out to be true as Joe Biden had a higher ratio.
 
@@ -35,13 +38,22 @@ Another goal was to create a novel approach and compare it to the state-of-the-a
 
 [Download The Detailed Project Report](assets/documents/election_report.pdf)
 
+[View on GitHub](https://github.com/dsagmanli/Election-Result-Prediction-Using-Twitter-Sentiments)
+
+
 ### UK Traffic Police Web App
 
 Developed a web application for the UK traffic police to record traffic incidents, add or search licence plate numbers and add and search driver licence numbers. The app includes an admin feature that can create or delete users, along with an audit trail so that the actions taken can be monitored in the future.
 
+[View on GitHub](https://github.com/dsagmanli/UK-Traffic-Police-Web-App)
+
+
 ### Autonomous Drone SLAM, Positioning and Real-time Object Detection
 
 Built an Autonomous Flying Drone, with a web-based user interface, Object Detection using Deep Learning with 90% precision, SLAM and 3D Mapping. Exhibited at Consumer Electronics Show (CES) 2022 in Las Vegas.
+
+[View on GitHub](https://github.com/dsagmanli/Autonomous-Drone-SLAM-Positioning-and-Real-time-Object-Detection)
+
 
 ![Drone Flight](/assets/img/drone1.gif)
 
@@ -50,6 +62,9 @@ Built an Autonomous Flying Drone, with a web-based user interface, Object Detect
 ### Smart Home Security System
 
 Created a smart home security system prototype using Arduino Uno with a flame sensor, Passive Infrared (PIR) sensor and a sound sensor to detect a fire and burglary, which sends notifications in these events over Wi-Fi.
+
+[View on GitHub](https://github.com/dsagmanli/Smart-Home-Security-System)
+
 
 ![Fire](/assets/img/security1.gif)
 
