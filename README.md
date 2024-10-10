@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Apache Spark, R, MATLAB Docker, Linux, Java, C, C++, Swift, HTML, CSS, PHP, JavaScript, VHDL
+#### Technical Skills: Python, SQL, Apache Spark, R, MATLAB, Docker, Linux, Java, C, C++, Swift, HTML, CSS, PHP, JavaScript, VHDL
 
 ## Education					       		
 - M.Sc., Computer Science	| University of Nottingham (_2024_)	 			        		
