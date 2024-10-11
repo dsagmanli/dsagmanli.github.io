@@ -10,7 +10,6 @@
 ## Master's Dissertation
 ### A Generalisation Approach to Stock Detection Using Computer Vision
 Submitted September 2024
-
 [Download My Master's Dissertation](assets/documents/final_dissertation_Deniz_Sagmanli.pdf)
 
 ---
