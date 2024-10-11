@@ -19,7 +19,7 @@
 ### Master's Dissertation
 **A Generalisation Approach to Stock Detection Using Computer Vision**
 
-[![Open PDF](https://img.shields.io/badge/PDF-Open_Dissertation-red?logo=adobe-acrobat-reader&logoColor=white)](assets/documents/final_dissertation_Deniz_Sagmanli.pdf)
+[![Open PDF](https://img.shields.io/badge/PDF-View_Dissertation-red?logo=adobe-acrobat-reader&logoColor=white)](assets/documents/final_dissertation_Deniz_Sagmanli.pdf)
 
 ---
 ## Work Experience
@@ -35,7 +35,7 @@
 ## Projects
 ### Detection of Dengue Fever Cases Using Machine Learning
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Dengue-Fever-Case-Prediction)
-[![Open PDF](https://img.shields.io/badge/PDF-Open_Project_Report-red?logo=adobe-acrobat-reader&logoColor=white)](assets/documents/dengue_report.pdf)
+[![Open PDF](https://img.shields.io/badge/PDF-View_Project_Report-red?logo=adobe-acrobat-reader&logoColor=white)](assets/documents/dengue_report.pdf)
 - Forecasted Dengue cases for 2 cities using 3 different ML models.
 - Achieved a 4% improvement over the current #1 solution on DrivenData ( out of 5600+ competitors).
 
@@ -47,7 +47,7 @@ Conducted a comprehensive study where I compared the effectiveness of 3 AI model
 ---
 ### Election Result Prediction Using Twitter Sentiment Analysis
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Election-Result-Prediction-Using-Twitter-Sentiments)
-[![Open PDF](https://img.shields.io/badge/PDF-Open_Project_Report-red?logo=adobe-acrobat-reader&logoColor=white)](assets/documents/election_report.pdf)
+[![Open PDF](https://img.shields.io/badge/PDF-View_Project_Report-red?logo=adobe-acrobat-reader&logoColor=white)](assets/documents/election_report.pdf)
 
 Conducted a comprehensive study where the 2020 US Presidential Election results were correctly predicted using the sentiments from 2 million tweets tweeted around the time of the election. The main assumption was that we would calculate positive tweets / all tweets per candidate. Between Donald Trump and Joe Biden, whoever had a higher ratio would have to have been the winner. This assumption turned out to be true as Joe Biden had a higher ratio.
 
