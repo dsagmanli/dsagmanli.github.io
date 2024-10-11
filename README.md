@@ -32,6 +32,9 @@ Conducted a comprehensive study where I compared the effectiveness of 3 AI model
 
 [View on GitHub](https://github.com/dsagmanli/Dengue-Fever-Case-Prediction)
 
+
+![Dengue Methodology](/assets/img/dengue1.png)
+
 ---
 ### Election Result Prediction Using Twitter Sentiment Analysis
 
@@ -42,6 +45,9 @@ Another goal was to create a novel approach and compare it to the state-of-the-a
 [Download The Detailed Project Report](assets/documents/election_report.pdf)
 
 [View on GitHub](https://github.com/dsagmanli/Election-Result-Prediction-Using-Twitter-Sentiments)
+
+
+![Election Architecture](/assets/img/election1.png)
 
 ---
 ### UK Traffic Police Web App
