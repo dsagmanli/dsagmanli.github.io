@@ -27,12 +27,11 @@ Submitted September 2024
 ## Projects
 ### Detection of Dengue Fever Cases Using Machine Learning
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Dengue-Fever-Case-Prediction)
+[![Open PDF](https://img.shields.io/badge/PDF-Open_Project_Report-red?logo=adobe-acrobat-reader&logoColor=white)](assets/documents/dengue_report.pdf)
 - Forecasted Dengue cases for 2 cities using 3 different ML models.
 - Achieved a 4% improvement over the current #1 solution on DrivenData ( out of 5600+ competitors).
 
 Conducted a comprehensive study where I compared the effectiveness of 3 AI models in predicting weekly Dengue Fever cases in the cities of San Juan, Puerto Rico and Iquitos, Peru. The 3 models used were Support Vector Machines, Random Forest and Lasso Regression. This project was done for my Data Science with Machine Learning module during my Master's. The accompanying .pdf file is our full report that explains the scientific logic behind our results.
-
-[Download The Detailed Project Report](assets/documents/dengue_report.pdf)
 
 
 ![Dengue Methodology](/assets/img/dengue1.png)
@@ -40,12 +39,11 @@ Conducted a comprehensive study where I compared the effectiveness of 3 AI model
 ---
 ### Election Result Prediction Using Twitter Sentiment Analysis
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Election-Result-Prediction-Using-Twitter-Sentiments)
+[![Open PDF](https://img.shields.io/badge/PDF-Open_Project_Report-red?logo=adobe-acrobat-reader&logoColor=white)](assets/documents/election_report.pdf)
 
 Conducted a comprehensive study where the 2020 US Presidential Election results were correctly predicted using the sentiments from 2 million tweets tweeted around the time of the election. The main assumption was that we would calculate positive tweets / all tweets per candidate. Between Donald Trump and Joe Biden, whoever had a higher ratio would have to have been the winner. This assumption turned out to be true as Joe Biden had a higher ratio.
 
 Another goal was to create a novel approach and compare it to the state-of-the-art, while proving the novel approach to be scalable and fault-tolerant, which it was.
-
-[Download The Detailed Project Report](assets/documents/election_report.pdf)
 
 
 ![Election Architecture](/assets/img/election1.png)
