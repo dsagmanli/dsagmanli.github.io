@@ -3,9 +3,10 @@
 #### Technical Skills: Python, SQL, Apache Spark, R, MATLAB, Docker, Linux, Java, C, C++, Swift, HTML, CSS, PHP, JavaScript, VHDL
 ---
 ## Education					       		
-- M.Sc., Computer Science	| University of Nottingham (_2024_)
-
-- B.Sc., Electrical and Electronics Engineering | Koç University (_2022_)
+<ul>
+  <li>M.Sc., Computer Science | University of Nottingham (2024)</li>
+  <li>B.Sc., Electrical and Electronics Engineering | Koç University (2022)</li>
+</ul>
  
 ### Master's Dissertation
 **A Generalisation Approach to Stock Detection Using Computer Vision**
