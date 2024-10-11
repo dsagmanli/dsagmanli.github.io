@@ -5,9 +5,11 @@
 ## Education					       		
 - M.Sc., Computer Science	| University of Nottingham (_2024_)	 			        		
 - B.Sc., Electrical and Electronics Engineering | Koç University (_2022_)
+
 ---
 ## Master's Dissertation
 [Download My Master's Dissertation](assets/documents/final_dissertation_Deniz_Sagmanli.pdf)
+
 ---
 ## Work Experience
 **Customer Success Manager @ Lifemote Networks (_May 2022 - August 2023_)**
@@ -17,6 +19,7 @@
 
 **Data Science Intern @ n11.com (_June 2021 - July 2021_)**
 - Programmed a Machine Learning algorithm that predicts the probability of churn of customers with 76% accuracy using their purchase data.
+
 ---
 ## Projects
 ### Detection of Dengue Fever Cases Using Machine Learning
