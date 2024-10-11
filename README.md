@@ -6,7 +6,7 @@
  M.Sc., Computer Science	| University of Nottingham (_2024_)
  
  B.Sc., Electrical and Electronics Engineering | Koç University (_2022_)
-
+ 
 ### Master's Dissertation
 **A Generalisation Approach to Stock Detection Using Computer Vision**
 
