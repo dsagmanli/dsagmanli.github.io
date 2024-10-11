@@ -4,7 +4,7 @@
 ---
 ## Education					       		
 M.Sc., Computer Science	| University of Nottingham (_2024_)
- 
+
 B.Sc., Electrical and Electronics Engineering | Koç University (_2022_)
  
 ### Master's Dissertation
