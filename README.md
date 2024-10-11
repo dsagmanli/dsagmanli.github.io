@@ -33,7 +33,7 @@ Conducted a comprehensive study where I compared the effectiveness of 3 AI model
 
 [Download The Detailed Project Report](assets/documents/dengue_report.pdf)
 
-[View on GitHub](https://github.com/dsagmanli/Dengue-Fever-Case-Prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Dengue-Fever-Case-Prediction)
 
 
 ![Dengue Methodology](/assets/img/dengue1.png)
@@ -47,7 +47,7 @@ Another goal was to create a novel approach and compare it to the state-of-the-a
 
 [Download The Detailed Project Report](assets/documents/election_report.pdf)
 
-[View on GitHub](https://github.com/dsagmanli/Election-Result-Prediction-Using-Twitter-Sentiments)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Election-Result-Prediction-Using-Twitter-Sentiments)
 
 
 ![Election Architecture](/assets/img/election1.png)
@@ -57,14 +57,14 @@ Another goal was to create a novel approach and compare it to the state-of-the-a
 
 Developed a web application for the UK traffic police to record traffic incidents, add or search licence plate numbers and add and search driver licence numbers. The app includes an admin feature that can create or delete users, along with an audit trail so that the actions taken can be monitored in the future.
 
-[View on GitHub](https://github.com/dsagmanli/UK-Traffic-Police-Web-App)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/UK-Traffic-Police-Web-App)
 
 ---
 ### Autonomous Drone SLAM, Positioning and Real-time Object Detection
 
 Built an Autonomous Flying Drone, with a web-based user interface, Object Detection using Deep Learning with 90% precision, SLAM and 3D Mapping. Exhibited at Consumer Electronics Show (CES) 2022 in Las Vegas.
 
-[View on GitHub](https://github.com/dsagmanli/Autonomous-Drone-SLAM-Positioning-and-Real-time-Object-Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Autonomous-Drone-SLAM-Positioning-and-Real-time-Object-Detection)
 
 
 ![Drone Flight](/assets/img/drone1.gif)
@@ -76,7 +76,7 @@ Built an Autonomous Flying Drone, with a web-based user interface, Object Detect
 
 Created a smart home security system prototype using Arduino Uno with a flame sensor, Passive Infrared (PIR) sensor and a sound sensor to detect a fire and burglary, which sends notifications in these events over Wi-Fi.
 
-[View on GitHub](https://github.com/dsagmanli/Smart-Home-Security-System)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Smart-Home-Security-System)
 
 
 ![Fire](/assets/img/security1.gif)
