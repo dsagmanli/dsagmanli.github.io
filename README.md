@@ -3,24 +3,17 @@
 #### Technical Skills: Python, SQL, Apache Spark, R, MATLAB, Docker, Linux, Java, C, C++, Swift, HTML, CSS, PHP, JavaScript, VHDL
 ---
 ## Education					       		
-<ul>
-  <li>
-    <table style="width:100%; border-bottom: 1px solid #ccc; border-collapse: collapse;">
-      <tr>
-        <td style="text-align: left; width: 70%;">M.Sc., Computer Science</td>
-        <td style="text-align: right; width: 30%;">University of Nottingham (2024)</td>
-      </tr>
-    </table>
-  </li>
-  <li>
-    <table style="width:100%; border-bottom: 1px solid #ccc; border-collapse: collapse;">
-      <tr>
-        <td style="text-align: left; width: 70%;">B.Sc., Electrical and Electronics Engineering</td>
-        <td style="text-align: right; width: 30%;">Koç University (2022)</td>
-      </tr>
-    </table>
-  </li>
-</ul>
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border-bottom: 1px solid #ccc;">
+    <td style="text-align: left; width: 60%;">M.Sc., Computer Science</td>
+    <td style="text-align: right; width: 40%;">University of Nottingham (2024)</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #ccc;">
+    <td style="text-align: left; width: 80%;">B.Sc., Electrical and Electronics Engineering</td>
+    <td style="text-align: right; width: 20%;">Koç University (2022)</td>
+  </tr>
+</table>
+
 
  
 ### Master's Dissertation
