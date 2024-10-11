@@ -5,12 +5,12 @@
 ## Education					       		
 <table style="width:100%; border-collapse: collapse;">
   <tr style="border-bottom: 1px solid #ccc;">
-    <td style="text-align: left; width: 65%;">MSc, Computer Science</td>
-    <td style="text-align: right; width: 35%;">University of Nottingham</td>
+    <td style="text-align: left; width: 60%;">MSc, Computer Science</td>
+    <td style="text-align: right; width: 40%;">University of Nottingham</td>
   </tr>
   <tr style="border-bottom: 1px solid #ccc;">
-    <td style="text-align: left; width: 70%;">BSc, Electrical and Electronics Engineering</td>
-    <td style="text-align: right; width: 30%;">Koç University</td>
+    <td style="text-align: left; width: 60%;">BSc, Electrical and Electronics Engineering</td>
+    <td style="text-align: right; width: 40%;">Koç University</td>
   </tr>
 </table>
 
