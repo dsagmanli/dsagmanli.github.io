@@ -202,24 +202,6 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media (max-width: 768px) {
-  .wrapper {
-    width: 100vw; /* Use full width on smaller screens */
-  }
-
-  section {
-    width: 100%; /* Main content takes full width */
-    margin-left: 0;
-    float: none;
-  }
-
-  header {
-    width: 100%; /* Sidebar also takes full width */
-    position: relative;
-    float: none;
-  }
-}
-
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
