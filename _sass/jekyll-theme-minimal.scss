@@ -56,8 +56,10 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
-  margin:0 auto;
+  width: 90vw; /* Full viewport width with padding on the sides */
+  max-width: 1000px; /* Limit width on larger screens */
+  margin: 0 auto;
+  padding: 0 10px; /* Optional padding for content spacing */
 }
 
 blockquote {
@@ -105,10 +107,13 @@ img {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 30%; /* Set sidebar to 30% of the viewport */
+  max-width: 300px; /* Limit to 300px for consistent appearance */
+  margin-top: 20px;
+  float: left;
+  position: fixed;
+  text-align: center; /* Center align content in the sidebar */
+  padding: 0 10px;
 }
 
 ul.downloads {
@@ -172,9 +177,10 @@ strong {
 }
 
 section {
-  width:500px;
-  float:right;
-  padding-bottom:50px;
+  width: 60%; /* Set main content to 60% of the viewport */
+  max-width: 600px; /* Limit width for readability */
+  margin-left: 40%; /* Move it to the right of the sidebar */
+  padding-bottom: 50px;
 }
 
 small {
@@ -194,6 +200,24 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    width: 100vw; /* Use full width on smaller screens */
+  }
+
+  section {
+    width: 100%; /* Main content takes full width */
+    margin-left: 0;
+    float: none;
+  }
+
+  header {
+    width: 100%; /* Sidebar also takes full width */
+    position: relative;
+    float: none;
+  }
 }
 
 @media print, screen and (max-width: 960px) {
