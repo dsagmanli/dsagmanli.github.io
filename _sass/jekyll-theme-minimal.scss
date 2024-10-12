@@ -56,10 +56,8 @@ a:hover small {
 }
 
 .wrapper {
-  width: 70vw; /* Full viewport width */
-  max-width: 70vw; /* Prevent any extra margin */
-  margin: 0 auto;
-  padding: 0 10px; /* Optional padding for content spacing */
+  width:1000px;
+  margin:0 auto;
 }
 
 blockquote {
@@ -107,11 +105,10 @@ img {
 }
 
 header {
-  width: 28vw; /* 28% of the viewport width for the sidebar */
-  max-width: 28vw;
-  float: left;
-  position: fixed;
-  -webkit-font-smoothing: subpixel-antialiased;
+  width:350px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 ul.downloads {
@@ -175,10 +172,9 @@ strong {
 }
 
 section {
-  width: 70vw; /* 70% of the viewport width for main content */
-  max-width: 70vw;
-  float: right;
-  padding-bottom: 50px;
+  width:500px;
+  float:right;
+  padding-bottom:50px;
 }
 
 small {
