@@ -176,7 +176,6 @@ strong {
 
 section {
   width: 60%; /* Set main content to 60% of the viewport */
-  max-width: 1000px; /* Limit width for readability */
   margin-left: 30%; /* Move it to the right of the sidebar */
   padding-bottom: 50px;
 }
@@ -214,6 +213,7 @@ footer {
   }
 
   header {
+    text-align: center;
     padding-right:320px;
   }
 
@@ -241,6 +241,7 @@ footer {
   }
 
   header {
+    text-align: center;
     padding:0;
   }
 
