@@ -83,5 +83,3 @@ Created a smart home security system prototype using Arduino Uno with a flame se
 ![Fire](/assets/img/security1.gif)
 
 ![Circuit Setup](/assets/img/security2.JPG)
-
----
