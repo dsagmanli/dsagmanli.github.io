@@ -110,7 +110,6 @@ header {
   max-width: 300px; /* Limit to 300px for consistent appearance */
   float: left;
   position: fixed;
-  text-align: center;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -178,7 +177,7 @@ strong {
 section {
   width: 60%; /* Set main content to 60% of the viewport */
   max-width: 1000px; /* Limit width for readability */
-  margin-left: 30%; /* Move it to the right of the sidebar */
+  margin-left: 20%; /* Move it to the right of the sidebar */
   padding-bottom: 50px;
 }
 
