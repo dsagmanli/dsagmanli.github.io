@@ -56,10 +56,9 @@ a:hover small {
 }
 
 .wrapper {
-  width: 90vw; /* Full viewport width with padding on the sides */
-  max-width: 1000px; /* Limit width on larger screens */
+  width: 90vw;
+  max-width: 1500px; /* Limit width on larger screens */
   margin: 0 auto;
-  padding: 0 10px; /* Optional padding for content spacing */
 }
 
 blockquote {
@@ -107,14 +106,13 @@ img {
 }
 
 header {
-  width: 30%; /* Set sidebar to 30% of the viewport */
+  width: 30%;
   max-width: 300px; /* Limit to 300px for consistent appearance */
-  margin-top: 20px;
   float: left;
   position: fixed;
-  text-align: center; /* Center align content in the sidebar */
-  padding: 0 10px;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
+
 
 ul.downloads {
   list-style:none;
@@ -177,9 +175,8 @@ strong {
 }
 
 section {
-  width: 60%; /* Set main content to 60% of the viewport */
-  max-width: 600px; /* Limit width for readability */
-  margin-left: 40%; /* Move it to the right of the sidebar */
+  width: 500px;
+  float: right;
   padding-bottom: 50px;
 }
 
@@ -216,7 +213,6 @@ footer {
   }
 
   header {
-    text-align: center;
     padding-right:320px;
   }
 
@@ -244,7 +240,6 @@ footer {
   }
 
   header {
-    text-align: center;
     padding:0;
   }
 
