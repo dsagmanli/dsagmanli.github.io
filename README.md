@@ -76,8 +76,8 @@ Built an Autonomous Flying Drone, with a web-based user interface, Object Detect
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="/assets/img/drone1.gif" alt="Drone Flight" style="height: 600px; width: auto;">
   <img src="/assets/img/drone2.JPG" alt="Drone" style="height: 600px; width: auto;">
+  \n
 </div>
-
 
 ---
 ### Smart Home Security System
