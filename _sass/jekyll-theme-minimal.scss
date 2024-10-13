@@ -107,7 +107,8 @@ img {
 header {
   width: 30%;
   float: left;
-  position: static;
+  position: fixed;
+  text-align: center;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
