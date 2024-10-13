@@ -42,7 +42,9 @@
 Conducted a comprehensive study where I compared the effectiveness of 3 AI models in predicting weekly Dengue Fever cases in the cities of San Juan, Puerto Rico and Iquitos, Peru. The 3 models used were Support Vector Machines, Random Forest and Lasso Regression. This project was done for my Data Science with Machine Learning module during my Master's. The accompanying .pdf file is our full report that explains the scientific logic behind our results.
 
 
-![Dengue Methodology](/assets/img/dengue1.png)
+<div style="text-align: center;">
+  <img src="/assets/img/dengue1.png" alt="Dengue Methodology">
+</div>
 
 ---
 ### Election Result Prediction Using Twitter Sentiment Analysis
@@ -54,7 +56,9 @@ Conducted a comprehensive study where the 2020 US Presidential Election results 
 Another goal was to create a novel approach and compare it to the state-of-the-art, while proving the novel approach to be scalable and fault-tolerant, which it was.
 
 
-![Election Architecture](/assets/img/election1.png)
+<div style="text-align: center;">
+  <img src="/assets/img/election1.png" alt="Election Architecture">
+</div>
 
 ---
 ### UK Traffic Police Web App
@@ -69,9 +73,10 @@ Developed a web application for the UK traffic police to record traffic incident
 Built an Autonomous Flying Drone, with a web-based user interface, Object Detection using Deep Learning with 90% precision, SLAM and 3D Mapping. Exhibited at Consumer Electronics Show (CES) 2022 in Las Vegas.
 
 
-![Drone Flight](/assets/img/drone1.gif)
-
-![Drone](/assets/img/drone2.JPG)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/assets/img/drone1.gif" alt="Drone Flight" style="height: 200px; width: auto;">
+  <img src="/assets/img/drone2.JPG" alt="Drone" style="height: 200px; width: auto;">
+</div>
 
 ---
 ### Smart Home Security System
@@ -80,6 +85,7 @@ Built an Autonomous Flying Drone, with a web-based user interface, Object Detect
 Created a smart home security system prototype using Arduino Uno with a flame sensor, Passive Infrared (PIR) sensor and a sound sensor to detect a fire and burglary, which sends notifications in these events over Wi-Fi.
 
 
-![Fire](/assets/img/security1.gif)
-
-![Circuit Setup](/assets/img/security2.JPG)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/assets/img/security1.gif" alt="Fire" style="height: 200px; width: auto;">
+  <img src="/assets/img/security2.JPG" alt="Circuit Setup" style="height: 200px; width: auto;">
+</div>
