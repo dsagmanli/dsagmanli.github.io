@@ -72,20 +72,19 @@ Developed a web application for the UK traffic police to record traffic incident
 
 Built an Autonomous Flying Drone, with a web-based user interface, Object Detection using Deep Learning with 90% precision, SLAM and 3D Mapping. Exhibited at Consumer Electronics Show (CES) 2022 in Las Vegas.
 
-
-<div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 40%; margin: 0 auto;">
-  <img src="/assets/img/drone1.gif" alt="Drone Flight" style="height: 600px; width: auto;">
-  <img src="/assets/img/drone2.JPG" alt="Drone" style="height: 600px; width: auto;">
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 100%; margin: 0 auto;">
+  <img src="/assets/img/drone1.gif" alt="Drone Flight" style="width: 100%; max-width: 50%; height: auto;">
+  <img src="/assets/img/drone2.JPG" alt="Drone" style="width: 100%; max-width: 50%; height: auto;">
 </div>
 
 ---
+
 ### Smart Home Security System
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Smart-Home-Security-System)
 
 Created a smart home security system prototype using Arduino Uno with a flame sensor, Passive Infrared (PIR) sensor and a sound sensor to detect a fire and burglary, which sends notifications in these events over Wi-Fi.
 
-
-<div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 40%; margin: 0 auto;">
-  <img src="/assets/img/security1.gif" alt="Fire" style="height: 600px; width: auto;">
-  <img src="/assets/img/security2.JPG" alt="Circuit Setup" style="height: 600px; width: auto;">
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 100%; margin: 0 auto;">
+  <img src="/assets/img/security1.gif" alt="Fire" style="width: 100%; max-width: 50%; height: auto;">
+  <img src="/assets/img/security2.JPG" alt="Circuit Setup" style="width: 100%; max-width: 50%; height: auto;">
 </div>
