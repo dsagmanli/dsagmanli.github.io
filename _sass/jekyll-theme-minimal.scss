@@ -111,6 +111,11 @@ header {
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
+/* Align the "Data Scientist - AI Developer" text */
+header p:last-child { /* Or use a specific class here, like header .role */
+  margin-left: 30px; /* Adjust as needed */
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
@@ -173,7 +178,7 @@ strong {
 
 section {
   width: 60%; /* Set main content to 60% of the viewport */
-  margin-left: 35%; /* Move it to the right of the sidebar */
+  margin-left: 30%; /* Move it to the right of the sidebar */
   padding-bottom: 50px;
 }
 
