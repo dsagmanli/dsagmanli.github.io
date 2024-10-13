@@ -84,7 +84,7 @@ Built an Autonomous Flying Drone, with a web-based user interface, Object Detect
 
 Created a smart home security system prototype using Arduino Uno with a flame sensor, Passive Infrared (PIR) sensor and a sound sensor to detect a fire and burglary, which sends notifications in these events over Wi-Fi.
 
-<div style="display: flex; justify-content: center; gap: 10px; max-width: 50%; margin: 0 auto 20px;">
+<div style="display: flex; justify-content: center; gap: 10px; max-width: 50%; margin: 0 auto;">
   <img src="/assets/img/security1.gif" alt="Fire" style="height: 500px; width: auto;">
   <img src="/assets/img/security2.JPG" alt="Circuit Setup" style="height: 500px; width: auto;">
 </div>
