@@ -73,9 +73,9 @@ Developed a web application for the UK traffic police to record traffic incident
 Built an Autonomous Flying Drone, with a web-based user interface, Object Detection using Deep Learning with 90% precision, SLAM and 3D Mapping. Exhibited at Consumer Electronics Show (CES) 2022 in Las Vegas.
 
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/assets/img/drone1.gif" alt="Drone Flight" style="height: 200px; width: auto;">
-  <img src="/assets/img/drone2.JPG" alt="Drone" style="height: 200px; width: auto;">
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="/assets/img/drone1.gif" alt="Drone Flight" style="height: 600px; width: auto;">
+  <img src="/assets/img/drone2.JPG" alt="Drone" style="height: 600px; width: auto;">
 </div>
 
 ---
@@ -85,7 +85,7 @@ Built an Autonomous Flying Drone, with a web-based user interface, Object Detect
 Created a smart home security system prototype using Arduino Uno with a flame sensor, Passive Infrared (PIR) sensor and a sound sensor to detect a fire and burglary, which sends notifications in these events over Wi-Fi.
 
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/assets/img/security1.gif" alt="Fire" style="height: 200px; width: auto;">
-  <img src="/assets/img/security2.JPG" alt="Circuit Setup" style="height: 200px; width: auto;">
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="/assets/img/security1.gif" alt="Fire" style="height: 600px; width: auto;">
+  <img src="/assets/img/security2.JPG" alt="Circuit Setup" style="height: 600px; width: auto;">
 </div>
