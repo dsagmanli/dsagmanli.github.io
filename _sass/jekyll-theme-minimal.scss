@@ -108,10 +108,12 @@ header {
   width: 30%;
   float: left;
   position: fixed;
-  text-align: center;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
+header p {
+  padding-left: 10px; /* Adjust this value until it aligns with the image */
+}
 
 ul.downloads {
   list-style:none;
@@ -175,7 +177,7 @@ strong {
 
 section {
   width: 60%; /* Set main content to 60% of the viewport */
-  margin-left: 40%; /* Move it to the right of the sidebar */
+  margin-left: 435; /* Move it to the right of the sidebar */
   padding-bottom: 50px;
 }
 
