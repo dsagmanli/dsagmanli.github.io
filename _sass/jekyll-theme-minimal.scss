@@ -273,3 +273,29 @@ footer {
     color:#444;
   }
 }
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-left: 30%; /* Adds space to avoid overlapping with the header */
+}
+
+.image-row img {
+  height: 200px; /* Set the desired height */
+  width: auto;
+}
+
+@media (max-width: 960px) {
+  .image-row {
+    flex-direction: column; /* Stack images vertically on smaller screens */
+    margin-left: 0; /* Remove extra margin for small screens */
+    align-items: center;
+  }
+
+  .image-row img {
+    height: auto; /* Adjust height for vertical stacking */
+    max-width: 90%; /* Keep the images within the viewport */
+  }
+}
+
