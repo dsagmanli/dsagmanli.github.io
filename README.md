@@ -78,6 +78,7 @@ Built an Autonomous Flying Drone, with a web-based user interface, Object Detect
   <img src="/assets/img/drone2.JPG" alt="Drone" style="height: 600px; width: auto;">
 </div>
 
+
 ---
 ### Smart Home Security System
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Smart-Home-Security-System)
