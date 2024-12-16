@@ -5,7 +5,7 @@
 ## Education					       		
 <table style="width:100%; border-collapse: collapse;">
   <tr style="border-bottom: 1px solid #ccc;">
-    <td style="text-align: left; width: 60%;">MSc, Computer Science</td>
+    <td style="text-align: left; width: 60%;">MSc, Computer Science with Distinction (GPA: 4.0/4.0)</td>
     <td style="text-align: right; width: 40%;">University of Nottingham</td>
   </tr>
   <tr style="border-bottom: 1px solid #ccc;">
