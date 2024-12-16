@@ -23,6 +23,11 @@
 
 ---
 ## Work Experience
+**Data Scientist & System Specialist @ Türkiye İş Bankası (İşbank) (_November 2024 - Present_)**
+- Developed predictive Machine/Deep Learning models for banking and financial forecasting.
+- Designed and implemented large-scale Generative AI assistant applications to improve workflow efficiency.
+- Optimized Machine Learning algorithms for classification tasks, improving model accuracy and performance.
+
 **Customer Success Manager @ Lifemote Networks (_May 2022 - August 2023_)**
 - Supervised ISPs within the UK and Greenland.
 - Engineered a Data Science and Analytics algorithm to track ISPs’ mesh upgrade success rates, reducing unnecessary truck-roll and mesh upgrade costs by 26%.
