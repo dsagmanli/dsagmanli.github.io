@@ -24,8 +24,9 @@
 ---
 ## Work Experience
 **Data Scientist & System Specialist @ Türkiye İş Bankası (İşbank) (_November 2024 - Present_)**
+- Pioneered an Agentic AI solution leveraging LLMs to automate commercial customer authorization and signature verification, reducing manual workload by 96% and achieving 240 FTE savings across bank branches.
 - Developed predictive Machine/Deep Learning models for banking and financial forecasting.
-- Designed and implemented large-scale Generative AI assistant applications to improve workflow efficiency.
+- Designed and implemented large-scale Generative and Agentic AI assistant applications to improve workflow efficiency.
 - Optimized Machine Learning algorithms for classification tasks, improving model accuracy and performance.
 
 **Customer Success Manager @ Lifemote Networks (_May 2022 - August 2023_)**
