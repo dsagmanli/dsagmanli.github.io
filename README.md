@@ -1,6 +1,6 @@
 # Portfolio
 ---
-#### Technical Skills: Python, SQL, Apache Spark, R, MATLAB, Docker, Linux, Java, C, C++, Swift, HTML, CSS, PHP, JavaScript, VHDL
+#### Technical Skills: Python, SQL, Apache Spark, R, MATLAB, Docker, Linux, LangChain, LLMs, Java, C, C++, Swift, HTML, CSS, PHP, JavaScript, VHDL
 ---
 ## Education					       		
 <table style="width:100%; border-collapse: collapse;">
