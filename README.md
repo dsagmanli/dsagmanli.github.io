@@ -38,6 +38,17 @@
 - Programmed a Machine Learning algorithm that predicts the probability of churn of customers with 76% accuracy using their purchase data.
 
 ---
+## Publications
+### Generalising Stock Detection in Retail Cabinets with Minimal Data Using a DenseNet and Vision Transformer Ensemble
+[![View Publication](https://img.shields.io/badge/View_Publication-blue?logo=googlechrome&logoColor=white)](https://doi.org/10.3390/make7030066){:target="_blank" rel="noopener"}
+**Rahi, B.**, **Sagmanli, D.**, Oppong, F., Pekaslan, D., & Triguero, I. (2025). 
+*Machine Learning and Knowledge Extraction, 7*(3), 66.  
+- Achieved 91% accuracy on new cabinet models using only 2 images/class  
+- Outperformed standard few-shot methods by 47% accuracy margins  
+- Developed novel CNN-Transformer ensemble for retail inventory automation
+https://doi.org/10.3390/make7030066  
+  
+---
 ## Projects
 ### Detection of Dengue Fever Cases Using Machine Learning
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Dengue-Fever-Case-Prediction){:target="_blank" rel="noopener"}
@@ -84,7 +95,6 @@ Built an Autonomous Flying Drone, with a web-based user interface, Object Detect
 </div>
 
 ---
-
 ### Smart Home Security System
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dsagmanli/Smart-Home-Security-System){:target="_blank" rel="noopener"}
 
@@ -94,10 +104,5 @@ Created a smart home security system prototype using Arduino Uno with a flame se
   <img src="/assets/img/security1.gif" alt="Fire" style="height: 500px; width: auto;">
   <img src="/assets/img/security2.JPG" alt="Circuit Setup" style="height: 500px; width: auto;">
 </div>
-
----
-## Publications
-### Generalising Stock Detection in Retail Cabinets with Minimal Data Using a DenseNet and Vision Transformer Ensemble
-[![View Publication](https://img.shields.io/badge/View_Publication-blue?logo=googlechrome&logoColor=white)](https://doi.org/10.3390/make7030066){:target="_blank" rel="noopener"}
 
 ---
