@@ -47,6 +47,7 @@
 - Achieved 91% accuracy on new cabinet models using only 2 images/class  
 - Outperformed standard few-shot methods by 47% accuracy margins  
 - Developed novel CNN-Transformer ensemble for retail inventory automation
+
 https://doi.org/10.3390/make7030066  
   
 ---
