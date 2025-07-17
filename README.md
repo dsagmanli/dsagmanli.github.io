@@ -95,3 +95,9 @@ Created a smart home security system prototype using Arduino Uno with a flame se
   <img src="/assets/img/security2.JPG" alt="Circuit Setup" style="height: 500px; width: auto;">
 </div>
 
+---
+## Publications
+### Generalising Stock Detection in Retail Cabinets with Minimal Data Using a DenseNet and Vision Transformer Ensemble
+[![View Publication](https://img.shields.io/badge/View_Publication-blue?logo=googlechrome&logoColor=white)](https://doi.org/10.3390/make7030066){:target="_blank" rel="noopener"}
+
+---
