@@ -24,6 +24,7 @@
 ---
 ## Work Experience
 **Data Scientist & System Specialist @ Türkiye İş Bankası (İşbank) (_November 2024 - Present_)**
+- Engineered an Agentic AI workflow utilizing VLMs to classify, count and extract information from foreign trade and shipment documents, which scalably processes 4000+ individual documents per day.
 - Pioneered an Agentic AI solution leveraging LLMs to automate customer authorization and signature checks, reducing manual work by 96% and saving 18 FTE across bank branches.
 - Developed predictive Machine/Deep Learning models for banking and financial forecasting.
 - Designed and implemented large-scale Generative and Agentic AI assistant applications to improve workflow efficiency.
